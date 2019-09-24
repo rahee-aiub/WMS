@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATOZWEBWMS", "ATOZWEBWMS\ATOZWEBWMS.csproj", "{6BB93ABD-3162-4D61-943C-13F15BC0F45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{7B49702F-7F97-476C-AAA4-E5E17324C15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB93ABD-3162-4D61-943C-13F15BC0F45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB93ABD-3162-4D61-943C-13F15BC0F45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB93ABD-3162-4D61-943C-13F15BC0F45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB93ABD-3162-4D61-943C-13F15BC0F45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B49702F-7F97-476C-AAA4-E5E17324C15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B49702F-7F97-476C-AAA4-E5E17324C15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B49702F-7F97-476C-AAA4-E5E17324C15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B49702F-7F97-476C-AAA4-E5E17324C15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

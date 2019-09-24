@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="A2ZWEBWMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="A2ZWEBWMS_localhost_EmpService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8112/EmpService.asmx</Value>
+    </Setting>
+    <Setting Name="A2ZWEBJEWELLERY_localhost_EmpService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8112/EmpService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\JEWELLERY</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/A2ZWEBJEWELLERY.dll">
+      <publishTime>05/16/2016 11:44:30</publishTime>
+    </File>
+    <File Include="bin/A2ZWEBJEWELLERY.XmlSerializers.dll">
+      <publishTime>05/16/2016 11:44:30</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.crystalreports.engine.dll">
+      <publishTime>11/24/2014 03:34:12</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Enterprise.Framework.dll">
+      <publishTime>05/15/2015 04:44:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Enterprise.InfoStore.dll">
+      <publishTime>05/15/2015 04:47:58</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.reportsource.dll">
+      <publishTime>11/24/2014 05:13:54</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.shared.dll">
+      <publishTime>05/15/2015 04:43:34</publishTime>
+    </File>
+    <File Include="bin/crystaldecisions.web.dll">
+      <publishTime>11/24/2014 04:51:44</publishTime>
+    </File>
+    <File Include="bin/DataAccessLayer.dll">
+      <publishTime>05/05/2016 14:40:00</publishTime>
+    </File>
+    <File Include="bin/obout_Grid_NET.dll">
+      <publishTime>11/11/2014 19:24:22</publishTime>
+    </File>
+    <File Include="bin/obout_Interface.dll">
+      <publishTime>08/22/2011 01:25:06</publishTime>
+    </File>
+    <File Include="bin/SoftValidity.dll">
+      <publishTime>11/15/2014 23:11:54</publishTime>
+    </File>
+    <File Include="bin/VbClassLibrary.dll">
+      <publishTime>11/16/2014 00:30:28</publishTime>
+    </File>
+    <File Include="css/animate.css">
+      <publishTime>12/29/2015 10:46:14</publishTime>
+    </File>
+    <File Include="css/bootstrap-responsive.css">
+      <publishTime>12/31/2015 10:18:26</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>01/11/2016 11:22:04</publishTime>
+    </File>
+    <File Include="css/Button.css">
+      <publishTime>12/29/2015 10:46:14</publishTime>
+    </File>
+    <File Include="css/jquery.bxslider.css">
+      <publishTime>12/22/2015 16:48:56</publishTime>
+    </File>
+    <File Include="css/jquery.cslider.css">
+      <publishTime>02/24/2016 15:44:38</publishTime>
+    </File>
+    <File Include="css/mycss.css">
+      <publishTime>11/08/2015 12:26:02</publishTime>
+    </File>
+    <File Include="css/pluton-ie7.css">
+      <publishTime>09/10/2015 01:08:30</publishTime>
+    </File>
+    <File Include="css/pluton.css">
+      <publishTime>09/10/2015 01:08:30</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>12/29/2015 10:46:14</publishTime>
+    </File>
+    <File Include="EmpService.asmx">
+      <publishTime>12/01/2015 16:36:30</publishTime>
+    </File>
+    <File Include="fonts/pluton.eot">
+      <publishTime>09/10/2015 01:08:40</publishTime>
+    </File>
+    <File Include="fonts/pluton.svg">
+      <publishTime>09/10/2015 01:08:40</publishTime>
+    </File>
+    <File Include="fonts/pluton.ttf">
+      <publishTime>09/10/2015 01:08:40</publishTime>
+    </File>
+    <File Include="fonts/pluton.woff">
+      <publishTime>09/10/2015 01:08:40</publishTime>
+    </File>
+    <File Include="grid/script/jquery-1.10.2.min.js">
+      <publishTime>09/20/2015 00:50:12</publishTime>
+    </File>
+    <File Include="grid/script/jquery.responsivetable.js">
+      <publishTime>09/20/2015 00:50:12</publishTime>
+    </File>
+    <File Include="grid/script/jquery.responsivetable.min.js">
+      <publishTime>09/20/2015 00:50:12</publishTime>
+    </File>
+    <File Include="grid/styles/basic.css">
+      <publishTime>10/05/2015 09:54:40</publishTime>
+    </File>
+    <File Include="grid/styles/style.css">
+      <publishTime>09/20/2015 09:43:04</publishTime>
+    </File>
+    <File Include="images/557406.gif">
+      <publishTime>09/11/2015 04:09:06</publishTime>
+    </File>
+    <File Include="images/About.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/add-button.jpg">
+      <publishTime>09/17/2015 23:21:42</publishTime>
+    </File>
+    <File Include="images/bigloader_59712.gif">
+      <publishTime>12/05/2015 11:06:46</publishTime>
+    </File>
+    <File Include="images/brand-bg.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/bx_loader.gif">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Client1.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Client2.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Client3.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/ezgif.com-resize.gif">
+      <publishTime>12/01/2015 09:54:14</publishTime>
+    </File>
+    <File Include="images/fs.spinner.gif">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/iBook.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/ico/apple-touch-icon-114.png">
+      <publishTime>09/10/2015 01:21:22</publishTime>
+    </File>
+    <File Include="images/ico/apple-touch-icon-144.png">
+      <publishTime>09/10/2015 01:21:22</publishTime>
+    </File>
+    <File Include="images/ico/apple-touch-icon-57.png">
+      <publishTime>09/10/2015 01:21:22</publishTime>
+    </File>
+    <File Include="images/ico/apple-touch-icon-72.png">
+      <publishTime>09/10/2015 01:21:22</publishTime>
+    </File>
+    <File Include="images/ico/favicon.ico">
+      <publishTime>09/10/2015 01:21:22</publishTime>
+    </File>
+    <File Include="images/iMac.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/image_1.gif">
+      <publishTime>11/26/2015 16:11:20</publishTime>
+    </File>
+    <File Include="images/index.ico">
+      <publishTime>12/06/2015 09:52:52</publishTime>
+    </File>
+    <File Include="images/Ipad.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/iPhone.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Left.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/loading.gif">
+      <publishTime>12/01/2015 11:22:24</publishTime>
+    </File>
+    <File Include="images/loading1.gif">
+      <publishTime>12/09/2015 14:38:58</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/minus.png">
+      <publishTime>10/10/2015 11:13:56</publishTime>
+    </File>
+    <File Include="images/nav-icon.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/plus.png">
+      <publishTime>10/10/2015 11:13:56</publishTime>
+    </File>
+    <File Include="images/Portfolio01.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio02.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio03.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio04.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio05.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio06.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio07.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio08.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Portfolio09.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/progress_bar.gif">
+      <publishTime>11/26/2015 15:08:38</publishTime>
+    </File>
+    <File Include="images/Right.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Service1.png">
+      <publishTime>11/04/2015 12:03:48</publishTime>
+    </File>
+    <File Include="images/Service11.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Service2.png">
+      <publishTime>11/04/2015 12:08:32</publishTime>
+    </File>
+    <File Include="images/Service23.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Service3.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Slider.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Slider01.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Slider011.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Slider02.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Slider021.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Slider03.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Slider031.png">
+      <publishTime>09/10/2015 01:49:46</publishTime>
+    </File>
+    <File Include="images/Team1.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Team2.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/Team3.png">
+      <publishTime>09/10/2015 01:08:52</publishTime>
+    </File>
+    <File Include="images/trans.gif">
+      <publishTime>11/28/2015 12:27:52</publishTime>
+    </File>
+    <File Include="Images2/demo.gif">
+      <publishTime>09/09/2015 23:37:06</publishTime>
+    </File>
+    <File Include="Images2/design.png">
+      <publishTime>09/09/2015 03:01:58</publishTime>
+    </File>
+    <File Include="Images2/kaws.jpg">
+      <publishTime>09/09/2015 23:37:06</publishTime>
+    </File>
+    <File Include="Images2/preview.jpg">
+      <publishTime>09/09/2015 01:02:46</publishTime>
+    </File>
+    <File Include="Images2/ZenBG.png">
+      <publishTime>09/09/2015 00:20:14</publishTime>
+    </File>
+    <File Include="js/app.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.bxslider.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.cslider.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.inview.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.mixitup.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/jquery.placeholder.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/modernizr.custom.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="js/respond.min.js">
+      <publishTime>09/10/2015 01:09:10</publishTime>
+    </File>
+    <File Include="MasterPages/MainMaster.Master">
+      <publishTime>12/09/2015 16:40:34</publishTime>
+    </File>
+    <File Include="MasterPages/Test.Master">
+      <publishTime>12/06/2015 10:02:00</publishTime>
+    </File>
+    <File Include="Pages/DisplayImage.ashx">
+      <publishTime>02/02/2016 14:42:44</publishTime>
+    </File>
+    <File Include="Pages/EditItems.aspx">
+      <publishTime>05/07/2016 13:09:18</publishTime>
+    </File>
+    <File Include="Pages/Error.aspx">
+      <publishTime>12/06/2015 10:09:34</publishTime>
+    </File>
+    <File Include="Pages/GoldPriceChangeMaint.aspx">
+      <publishTime>05/07/2016 11:15:00</publishTime>
+    </File>
+    <File Include="Pages/GoldRateChange.aspx">
+      <publishTime>01/24/2016 16:41:38</publishTime>
+    </File>
+    <File Include="Pages/Item.aspx">
+      <publishTime>05/17/2016 15:47:48</publishTime>
+    </File>
+    <File Include="Pages/Login.aspx">
+      <publishTime>05/16/2016 11:03:04</publishTime>
+    </File>
+    <File Include="Pages/LogOut.aspx">
+      <publishTime>12/08/2015 14:28:00</publishTime>
+    </File>
+    <File Include="Pages/RcvLot.aspx">
+      <publishTime>01/03/2016 10:14:52</publishTime>
+    </File>
+    <File Include="Pages/RcvLotViews.aspx">
+      <publishTime>11/23/2015 11:08:00</publishTime>
+    </File>
+    <File Include="Pages/StartUp.aspx">
+      <publishTime>05/17/2016 16:03:00</publishTime>
+    </File>
+    <File Include="Pages/StockForDiamond.aspx">
+      <publishTime>04/24/2016 13:45:54</publishTime>
+    </File>
+    <File Include="Pages/StockForGold.aspx">
+      <publishTime>05/05/2016 15:46:36</publishTime>
+    </File>
+    <File Include="Pages/StockIn.aspx">
+      <publishTime>01/28/2016 09:52:14</publishTime>
+    </File>
+    <File Include="Pages/Test.aspx">
+      <publishTime>10/10/2015 10:33:46</publishTime>
+    </File>
+    <File Include="Pages/TransferStock.aspx">
+      <publishTime>04/18/2016 12:34:44</publishTime>
+    </File>
+    <File Include="Pages/uploadimage.aspx">
+      <publishTime>03/09/2016 15:48:56</publishTime>
+    </File>
+    <File Include="scripts/amount.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/DDLSorting.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/Details.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/Details2.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/gridviewScroll.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/ji.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jq-liscroll/jquery.li-scroller.1.0.js">
+      <publishTime>01/23/2016 09:39:42</publishTime>
+    </File>
+    <File Include="scripts/jq-liscroll/li-scroller.css">
+      <publishTime>01/23/2016 09:39:42</publishTime>
+    </File>
+    <File Include="scripts/jq.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.4.2.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jQuery-1.8.2.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jQuery-1.8.2.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.9.1.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery-ui.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery-ui.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery.loupe.js">
+      <publishTime>02/07/2016 12:11:14</publishTime>
+    </File>
+    <File Include="scripts/jquery.loupe.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery.min.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/jquery.min2.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/Loading.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/respond.min.js">
+      <publishTime>09/09/2015 23:37:18</publishTime>
+    </File>
+    <File Include="scripts/validation.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/validation_old.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="scripts/watermark.js">
+      <publishTime>09/07/2015 01:38:18</publishTime>
+    </File>
+    <File Include="Styles/Jwcss.css">
+      <publishTime>09/09/2015 00:59:02</publishTime>
+    </File>
+    <File Include="Styles/main.css">
+      <publishTime>10/01/2015 14:23:22</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet1.css">
+      <publishTime>09/09/2015 23:06:30</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet2.css">
+      <publishTime>09/09/2015 23:32:52</publishTime>
+    </File>
+    <File Include="Web References/localhost/Reference.map">
+      <publishTime>12/02/2015 11:06:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/16/2016 10:16:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

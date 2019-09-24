@@ -1,0 +1,32 @@
+﻿<%@ Master LLanguage="C#" AutoEventWireup="true" CodeBehind="Test.master.cs" Inherits="A2ZWEBWMS.MasterPages.Test" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+            <asp:UpdateProgress ID="UpdateProgress1" runat="server">
+                <ProgressTemplate>
+                    <%--<asp:Image ID="Image1" ImageUrl="~/images/bx_loader.gif" runat="server"/>--%>
+                    <div style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; overflow: hidden; padding: 0;  margin: 0; filter: alpha(opacity=50); opacity: 0.5; z-index: 100000;"></div>
+                    <div style="position: fixed; top: 38%; left: 0%; height: 100%; width: 18%; z-index: 100001; background-color: #FFFFFF; background-image: url('../Images/loading.gif'); background-repeat: no-repeat; background-position: center;"></div>
+                </ProgressTemplate>
+            </asp:UpdateProgress>
+        </div>
+    </form>
+</body>
+</html>
